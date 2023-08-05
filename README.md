@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DOSSEH Shalom</h1>
-<h3 align="center">I'm a First Year Student At Epitech Bénin • Fintech Enthusiast • Future Data Analyst • Future Business Analyst • Blockchain</h3>
+<h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager | Revolutionizing Finance with Cutting-Edge Solutions 📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analyticace&label=Profile%20views&color=0e75b6&style=flat" alt="analyticace" /> </p>
 
