@@ -48,11 +48,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&" alt="analyticace" /></p>
 
-<p>
-
-  <a href="https://metrics.lecoq.io/AnalyticAce">
-    <img src="https://metrics.lecoq.io/AnalyticAce" />
-  </a>
-
-</p>
-
