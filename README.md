@@ -69,7 +69,10 @@
 	<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>&nbsp; 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&" alt="analyticace" /></p>
+<div align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
+</div>
 
-<p><img align="center" src="https://giffiles.alphacoders.com/208/208598.gif" alt="analyticace" /></p>
-
+<div align="center">
+	<img src="https://giffiles.alphacoders.com/208/208598.gif"/><br>
+</div>
