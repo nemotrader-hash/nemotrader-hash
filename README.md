@@ -9,7 +9,7 @@
 	<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
 </div>
 
-- 🔭 I’m currently working on **Credit risk analysis Project**
+- 🔭 I’m currently working on **Trading Algorighms**
 
 - 🌱 I’m currently learning **Python, R, SQL and Data visualisation tools**
 
