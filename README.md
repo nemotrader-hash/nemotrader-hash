@@ -5,8 +5,9 @@
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
 
-
-<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
+<div align="center">
+	<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
+</div>
 
 - 🔭 I’m currently working on **Credit risk analysis Project**
 
