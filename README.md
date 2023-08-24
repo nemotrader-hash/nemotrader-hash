@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>
+<div align="center">
+	<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>
+</div>
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager | Revolutionizing Finance with Cutting-Edge Solutions 📈</h3>
 
