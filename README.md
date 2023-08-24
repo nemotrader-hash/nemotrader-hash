@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **shalom.dosseh@epitech.eu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shalom-dosseh-4a484a262/](https://www.linkedin.com/in/shalom-dosseh-4a484a262/)
-
 - ⚡ Fun fact **I think I am funny**
   
 <div align="center">
