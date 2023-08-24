@@ -45,3 +45,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=analyticace&show_icons=true&locale=en" alt="analyticace" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&" alt="analyticace" /></p>
+
+<p>
+
+  <a href="https://metrics.lecoq.io/femifacia">
+    <img src="https://metrics.lecoq.io/femifacia" />
+  </a>
+
+</p>
+
