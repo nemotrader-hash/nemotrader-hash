@@ -3,6 +3,8 @@
 	<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>
 </div>
 
+![Alt Text](https://giffiles.alphacoders.com/157/15737.gif)
+
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
 
 <div align="center">
