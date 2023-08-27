@@ -49,7 +49,7 @@
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
  	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=blue"/>&nbsp; 
 
-<h2>📖 What I am currently learning / improving on</h2>
+<h2>📖 What I am currently improving on</h2>
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;  
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
  	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=black"/>&nbsp; 
