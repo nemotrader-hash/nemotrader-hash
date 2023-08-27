@@ -52,7 +52,7 @@
 <h2>📖 What I am currently learning / improving on</h2>
 	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;  
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp; 
- 	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=blue"/>&nbsp; 
+ 	<img src="https://img.shields.io/badge/R-FFD43B?style=for-the-badge&logo=r&logoColor=black"/>&nbsp; 
 	
 <h2>☄️ OS</h2>
 	<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp; 
