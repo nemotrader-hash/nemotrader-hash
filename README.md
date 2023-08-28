@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Fintech**
 
-- 📫 How to reach me **shalom.dosseh@epitech.eu**
+- 📫 How to reach me **dossehdosseh14@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
   
