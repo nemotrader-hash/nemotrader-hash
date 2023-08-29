@@ -5,9 +5,11 @@
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
 
+<!--
 <div align="center">
 	<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
 </div>
+-->
 
 - 🔭 I’m currently working on **Trading Algorighms**
 
@@ -65,7 +67,8 @@
 <h2>🛡️ Security Platforms</h2>
 	<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>&nbsp; 
 </div>
-
+		
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
 </div>
