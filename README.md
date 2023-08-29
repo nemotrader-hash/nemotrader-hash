@@ -73,8 +73,10 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent)
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent)
+
