@@ -76,8 +76,9 @@
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
+	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
+        
 </p>
