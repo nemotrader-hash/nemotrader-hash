@@ -69,14 +69,15 @@
 </div>
 		
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent)
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
+</p>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
-
-
