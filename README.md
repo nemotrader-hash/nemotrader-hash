@@ -10,6 +10,8 @@
 </div>
 -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mhsm6v5jmpa76u5mzvijzstzje&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mhsm6v5jmpa76u5mzvijzstzje&redirect=true)
+
 - 🔭 I’m currently working on **Trading Algorighms**
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
