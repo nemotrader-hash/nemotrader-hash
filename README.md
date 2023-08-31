@@ -1,8 +1,8 @@
 ### *Hi there 👋*
                                                                                                                      
 <div align="center">
-	<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>
-	<img src=""/><br>
+	<!--<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>-->
+	<img src="madara2.gif"/><br>
 </div>
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
