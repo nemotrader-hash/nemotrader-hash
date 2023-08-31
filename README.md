@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Python, Fintech**
 
-- 📫 How to reach me **dossehdosseh14@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/shalom-dosseh-4a484a262/)
+- 📫 How to reach me **dossehdosseh14@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
   
@@ -92,3 +92,9 @@ No activity tracked
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
 
+<div align="center">
+	<h2>Find me Here 👇</h2>
+	<a href="https://www.linkedin.com/in/shalom-dosseh-4a484a262/" target="_blank">
+	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</div>
