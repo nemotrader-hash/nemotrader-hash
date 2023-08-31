@@ -16,13 +16,13 @@
 
 - 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnalyticAce](https://github.com/AnalyticAce)
+- 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/AnalyticAce)
 
-- 📝 I regularly write articles on [https://medium.com/@dossehdosseh14](https://medium.com/@dossehdosseh14)
+- 📝 I regularly write articles on [Medium](https://medium.com/@dossehdosseh14)
 
 - 💬 Ask me about **Python, Fintech**
 
-- 📫 How to reach me **dossehdosseh14@gmail.com**
+- 📫 How to reach me **dossehdosseh14@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/shalom-dosseh-4a484a262/)
 
 - ⚡ Fun fact **I think I am funny**
   
