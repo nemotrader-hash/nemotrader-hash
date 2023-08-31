@@ -12,11 +12,6 @@
 </div>
 -->
 
-<div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mhsm6v5jmpa76u5mzvijzstzje&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
-</div>
-
-
 - 🔭 I’m currently working on **Trading Algorighms**
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
@@ -34,7 +29,11 @@
 - 📫 How to reach me **dossehdosseh14@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-  
+
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=67b427&bar_color_cover=false"></a>
+</p>
+
 <div align="center">
 	<h2>🛠 Technologies and tools</h2>
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp; 
