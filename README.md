@@ -7,6 +7,10 @@
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
 
+<div align="center">
+	<img src="https://komarev.com/ghpvc/?username=AnalyticAce&color=green"/><br>
+</div>
+
 <!--
 <div align="center">
 	<img src="https://giffiles.alphacoders.com/121/12161.gif"/><br>
