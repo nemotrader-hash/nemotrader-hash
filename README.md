@@ -12,12 +12,14 @@
 
 - 🔭 I’m currently working on **Trading Algorighms**
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 - 🌱 I’m currently learning **Python, R, SQL and Data visualisation tools**
 
 - 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
 
 - 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/AnalyticAce)
-
+  
 - 📝 I regularly write articles on [Medium](https://medium.com/@dossehdosseh14)
 
 - 💬 Ask me about **Python, Fintech**
@@ -89,7 +91,6 @@ No activity tracked
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
-	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
 
 <div align="center">
@@ -98,3 +99,9 @@ No activity tracked
 	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 </div>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
+</p>
+
+
