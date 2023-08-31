@@ -76,11 +76,6 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
 </div>
 
-<p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
-	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
-</p>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -88,3 +83,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
+	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
+</p>
