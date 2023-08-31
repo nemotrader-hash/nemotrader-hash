@@ -83,22 +83,8 @@ No activity tracked
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
 </div>
 
-
-
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
 
-## my cool name
-
-### 🗣 My activity:
-
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
----
-
-<p align="center">
-  Last refresh: 
-  <b><!--TIMESTAMP--></b>
-</p>
