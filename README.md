@@ -83,14 +83,6 @@
 <div align="center">
 	<h2>🚀 Activity Track</h2>
 </div>
-		
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=analyticace&"/><br>
