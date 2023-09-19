@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **dossehdosseh14@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I don't code for fun 🔥**
 
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31mhsm6v5jmpa76u5mzvijzstzje&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=67b427&bar_color_cover=false"></a>
