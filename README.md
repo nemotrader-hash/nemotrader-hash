@@ -26,8 +26,6 @@
 - 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
 
 - 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/AnalyticAce)
-  
-- 📝 I regularly write articles on [Medium](https://medium.com/@dossehdosseh14)
 
 - 💬 Ask me about **Python, Fintech**
 
