@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">🚀 Data-Driven Innovator | Future Quant Fund Manager</h3>
-
+![views](https://hit.yhype.me/github/profile?user_id=114688102)
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=AnalyticAce&color=green"/><br>
 </div>
