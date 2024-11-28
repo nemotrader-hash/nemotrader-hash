@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [DOSSEH Shalom](https://www.linkedin.com/in/edouard-touch-344108183/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Just a random Guy here  
                                                                                                                      
 <div align="center">
 	<!--<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>-->
