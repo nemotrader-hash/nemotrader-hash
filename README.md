@@ -25,11 +25,9 @@
 
 - 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
 
-- 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/AnalyticAce)
+- 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/nemotrader-hash)
 
-- 💬 Ask me about **Python, Fintech**
-
-- 📫 How to reach me **dossehdosseh14@gmail.com**
+- 💬 Ask me about **Python, Algo**
 
 - ⚡ Fun fact **I don't code for fun 🔥**
 
