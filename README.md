@@ -90,5 +90,3 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
-
-Lets update this github readme for my goithub https://github.com/nemotrader-hash/nemotrader-hash
