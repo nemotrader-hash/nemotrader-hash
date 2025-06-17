@@ -89,13 +89,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=AnalyticAce&show_icons=true&theme=transparent" alt="git status" />
 </p> -->
 
-<div align="center">
-	<h2>Find me Here 👇</h2>
-	<a href="https://www.linkedin.com/in/shalom-dosseh-4a484a262/" target="_blank">
-	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-</div>
-
 <p align="center">
 	<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="foot" />
 </p>
