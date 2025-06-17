@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Just a random Guy here  
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Just a random Quant 
                                                                                                                      
 <div align="center">
 	<!--<img src="https://giffiles.alphacoders.com/157/15737.gif"/><br>-->
@@ -24,8 +24,6 @@
 - 🌱 I’m currently learning **Python, R, SQL and Data visualisation tools**
 
 - 👯 I’m looking to collaborate on **Fintech - Blockchain and Data Analyse Projects**
-
-- 👨‍💻 All of my projects are available at [AnalyticAce](https://github.com/nemotrader-hash)
 
 - 💬 Ask me about **Python, Algo**
 
